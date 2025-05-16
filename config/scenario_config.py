@@ -50,18 +50,18 @@ LOW_INFO_CONTENT = (
 
 # References for low information source quality
 LOW_SOURCE_REFS = (
-    "References:\n"
-    "1. Anonymous. (2008). My Trip to Disneyland Paris! Retrieved from https://n&tab=TT&sl=en&tl=zh-TW&op.com\n"
-    "2. Terry, B (2004). Sharing My Trip to Disneyland Paris with You. Retrieved from https://en&tl=zh-TW&text=make%20the%20below%\n"
-    "3. Anonymous. (2006). Visiting Disneyland Paris. Retrieved from https://%20uk%203%3A%0A%0A.html\n"
-    "4. Wilson, K. (n.d). Experiences in Disneyland Paris. Retrieved from https://?q=21899&tip=sid&clean=0\n\n"
+    "参考文献:\n"
+    "1. 匿名. (2008). 我的巴黎迪士尼之旅！ 取自 https://n&tab=TT&sl=en&tl=zh-CN&op.com\n"
+    "2. 特里. (2004). 与你分享我的巴黎迪士尼之旅。 取自 https://en&tl=zh-CN&text=make%20the%20below%\n"
+    "3. 匿名. (2006). 参观巴黎迪士尼。 取自 https://%20uk%203%3A%0A%0A.html\n"
+    "4. 威爾森. (n.d.). 巴黎迪士尼的体验。 取自 https://?q=21899&tip=sid&clean=0\n"
 )
 
 # References for high information source quality
 HIGH_SOURCE_REFS = (
-    "References:\n"
-    "1. Anonymous. (2008). My Trip to Disneyland Paris! Retrieved from https://n&tab=TT&sl=en&tl=zh-TW&op.com\n"
-    "2. Terry, B (2004). Sharing My Trip to Disneyland Paris with You. Retrieved from https://en&tl=zh-TW&text=make%20the%20below%\n"
-    "3. Anonymous. (2006). Visiting Disneyland Paris. Retrieved from https://%20uk%203%3A%0A%0A.html\n"
-    "4. Wilson, K. (n.d). Experiences in Disneyland Paris. Retrieved from https://?q=21899&tip=sid&clean=0\n\n"
+    "参考文献:\n"
+    "1. 巴黎迪士尼乐园新闻. (2024 年). 历史。取自 https://news.disneylandparis.com/en/history/\n"
+    "2. 兰伯特.（2023 年）. 通过技术提升游客体验：以巴黎迪士尼乐园为例。《主题公园与景点管理杂志》，15(1)，12-25。取自 https://www.jtpam.org/articles/technology-disneylandparis\n"
+    "3. 艾瑞网.（2024 年）. 2023 年巴黎华特迪士尼影城游客量。取自https://news.iresearch.cn/attendance-at-the-disneyland-paris-walt-disney-studios-park-theme-park/\n"
+    "4. 巴黎迪士尼乐园官方.（2024 年）. 巴黎迪士尼乐园近期活动。取自https://www.disneylandparis.com/en-usd/offers/\n"
 )
